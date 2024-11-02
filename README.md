@@ -1,6 +1,6 @@
 # Bangla Audio Classification Dataset
 
-**Bangla_Audio_Classification_Dataset** © 2024 by Manjara Hasin AL Pitom, Tasauf Mim is licensed under **CC BY-NC-ND 4.0**. This license permits others to download and share the dataset, provided they give appropriate credit. However, modifications and commercial use are not allowed. For more details, please refer to the [LICENSE](./LICENSE) file.
+**Bangla_Audio_Classification_Dataset** © 2024 by Manjara Hasin AL Pitom, Tasauf Mim is licensed under **CC BY-NC-ND 4.0**. This license permits others to download and share the dataset, provided they give appropriate credit. However, modifications and commercial use are not allowed. For more details, please refer to the [LICENSE](./LICENSE.txt) file.
 
 ## Dataset Overview
 
