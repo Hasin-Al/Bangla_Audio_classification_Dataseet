@@ -4,7 +4,7 @@
 
 ## Dataset Overview
 
-This dataset is designed for the classification of human audio recordings into seven distinct emotion classes in Bengali.
+This dataset is designed for the classification of human audio recordings into seven distinct emotion classes in Bengali. The dataset can be accessed and downloaded from [Kaggle](https://www.kaggle.com/datasets/hasinmanjare/bangla-audio-classification-dataset).
 
 ### Labeling Structure
 
@@ -32,7 +32,3 @@ Each audio file is labeled by the digit before the `.wav` extension.
 ## Usage
 
 This dataset is intended for non-commercial research and educational purposes only. Proper attribution must be given, and modifications or commercial use of the dataset are not permitted.
-
----
-
-Feel free to copy and paste this section directly into your `README.md` file on GitHub.
